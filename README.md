@@ -1,7 +1,12 @@
 
 # Lightweight U-Net for Brain Tumor Segmentation  
 
+![image](https://github.com/user-attachments/assets/419bd0dc-e9f8-4b6b-9d15-af6432bcc911)
+
+
 This repository contains a **Jupyter Notebook** implementation of a **Lightweight U-Net model** for segmenting brain tumors using MRI images from the **BITE dataset**. The project leverages TensorFlow to modify the U-Net architecture for computational efficiency while maintaining accuracy.  
+
+![image](https://github.com/user-attachments/assets/6295b797-6319-4ec8-9fc8-e7e985eaceac)
 
 ---
 
@@ -17,6 +22,7 @@ The goal of this project is to propose a lightweight U-Net model to:
 - **`brain-tumor-seg.ipynb`**: Contains the implementation, visualization, and evaluation of the Lightweight U-Net model.  
 
 ---
+![image](https://github.com/user-attachments/assets/7d0e38a4-53a7-4742-9152-f3cff288639a)
 
 ## 🛠 **Key Features of the Model**  
 - **Architecture**:  
@@ -41,7 +47,6 @@ The goal of this project is to propose a lightweight U-Net model to:
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/VedantPancholi/Brain-Tumor-Segmentation.git  
-   cd brain-tumor-segmentation  
    ```  
 
 2. Open the Jupyter Notebook:  
