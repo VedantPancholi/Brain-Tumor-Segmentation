@@ -22,7 +22,6 @@ The goal of this project is to propose a lightweight U-Net model to:
 - **`brain-tumor-seg.ipynb`**: Contains the implementation, visualization, and evaluation of the Lightweight U-Net model.  
 
 ---
-![image](https://github.com/user-attachments/assets/7d0e38a4-53a7-4742-9152-f3cff288639a)
 
 ## 🛠 **Key Features of the Model**  
 - **Architecture**:  
@@ -40,6 +39,8 @@ The goal of this project is to propose a lightweight U-Net model to:
   - Mean Accuracy.  
   - Mean IoU.  
   - Frequency Weighted IoU (FWIoU).  
+
+![image](https://github.com/user-attachments/assets/7d0e38a4-53a7-4742-9152-f3cff288639a)
 
 ---
 
